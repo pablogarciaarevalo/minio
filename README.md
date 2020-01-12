@@ -1,6 +1,6 @@
 # Multi-arch Minio docker container
 
-This image allows multi architecture docker container for Minio based on the [origin project](https://github.com/minio/minio)
+This image allows multi architecture docker container for Minio based on the [official project](https://github.com/minio/minio)
 
 ## Building the image
 
